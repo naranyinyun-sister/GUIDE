@@ -91,6 +91,7 @@ adb reboot recovery
 你已经修改了System分区,在不关闭AVB的情况下无法启动设备,本次MIUI13自动关闭AVB
 
 如果你需要回官方,请刷入"MI8SE_BACK.zip"或使用工具关闭AVB(此工具你已经下载,即卡Fastboot专用)
+
 </details>
 
 ## 刷入MIUI13 For MI8SE
@@ -101,7 +102,7 @@ adb reboot recovery
 
 ## 可选的额外步骤
 
-刷入[Magisk](https://github.com/topjohnwu/Magisk/releases/)(重命名为Install.zip刷入;卸载请重命名为UnInstall.zip刷入)
+~~V我50~~
 
 # 常见问题
 

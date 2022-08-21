@@ -109,3 +109,9 @@ adb reboot recovery
 我不知道有什么常见问题,如果你需要联络我们,请加入480388122(QQ)
 
 群问题不知道怎么答? 当然是填我辣!(纳兰音韵)
+
+------------
+
+<p><a style="color: inherit; font-weight: normal; text-decoration: none;" href="https://docsify.js.org">Powered by docsify</a></p>
+
+<p><a style="color: inherit; font-weight: normal; text-decoration: none;" href="https://docsify.js.org">Copyright 2022 Nalanyinyun/Wilderness AllRightsReserved</a></p>

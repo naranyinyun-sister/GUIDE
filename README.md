@@ -12,6 +12,8 @@
 > 
 > 本项目由Cloudflare Pages托管,使用Cloudflare CDN加速(当然也可能是减速)
 
+求求了,点一下[这个](https://nalanyinyun.ml/)和[这个](https://blog.nalanyinyun.ml/),最近访问量实在惨淡，~~客官，不来玩吗？~~
+
 # 准备
 
 ## 硬件材料

@@ -117,4 +117,4 @@ adb reboot recovery
 
 <p><a style="color: inherit; font-weight: normal; text-decoration: none;" href="https://docsify.js.org">Powered by docsify</a></p>
 
-<p><a style="color: inherit; font-weight: normal; text-decoration: none;" href="https://docsify.js.org">Copyright 2022 Nalanyinyun/Wilderness AllRightsReserved</a></p>
+<p><a style="color: inherit; font-weight: normal; text-decoration: none;" href="https://nalanyinyun.ml/">Copyright 2022 Nalanyinyun/Wilderness AllRightsReserved</a></p>

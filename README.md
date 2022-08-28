@@ -8,7 +8,7 @@
 > 
 > 编纂/构建 : 纳兰音韵
 > 
-> Rom Developer : 虾滑被吃掉了
+> SGSI-Rom Rransplant : 虾滑被吃掉了
 > 
 > 本项目由Cloudflare Pages托管,使用Cloudflare CDN加速(当然也可能是减速)
 

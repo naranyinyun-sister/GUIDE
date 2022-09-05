@@ -2,6 +2,8 @@
 
 ## 这应该写啥比较合适?
 
+?> 需要验证码吗? MI8SE-Rubbishy AMOLED
+
 这是一份Xiaomi 8 SE的刷机手册,其实也不是非要写这个,只是我在研究 docsify 想不出来写什么而已
 
 > 本手册由Docsify强力驱动

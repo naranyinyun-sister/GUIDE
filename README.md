@@ -1,22 +1,19 @@
 # 概述
 
-## 这应该写啥比较合适?
+## 声明
 
 ?> 需要验证码吗? MI8SE-Rubbishy AMOLED
 
-这是一份Xiaomi 8 SE的刷机手册,其实也不是非要写这个,只是我在研究 docsify 想不出来写什么而已
+Copyright 2022 Nalanyinyun&Wilderness. All rights reserved.   
 
-> 本手册由Docsify强力驱动
-> 
-> 编纂/构建 : 纳兰音韵
-> 
-> SGSI-Rom Rransplant : 虾滑被吃掉了
-> 
-> 本项目由Cloudflare Pages托管,使用Cloudflare CDN加速(当然也可能是减速)
+This work is licensed under CC BY-SA 4.0  
 
-求求了,点一下[这个](https://nalanyinyun.ml/)和[这个](https://blog.nalanyinyun.ml/),最近访问量实在惨淡，~~客官，不来玩吗？~~  
+!> 在开始前,你必须同意这些条款:  
+1. 因不遵守/理解错误/途径他者(来源)导致意外行为的,与我们无关
+2. 我理解并认可: 他人帮助我是情分,而非本分,我因措辞不当导致的意外行为与任何人无关  
+3. 你同意本作品的任何衍生作品造成的后果与我们无关
+4. 你同意本项目内容及源代码使用的协议  
 
-**免责声明:您因本手册或刷写本手册提供的资源而造成意外事故时，我们不与您的问题有任何直接或间接关联**  
 # 准备
 
 ## 硬件材料

@@ -1,5 +1,7 @@
 # 概述
 
+已弃用，已使用VuePress重构站点
+
 ## 声明
 
 ?> 需要验证码吗? MI8SE-Rubbishy AMOLED
